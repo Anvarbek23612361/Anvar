@@ -1,10 +1,10 @@
 <?php 
 /**
- *Author: Tilon
+ *Author: Anvar
  *
- *Telegram : @TILON
+ *Telegram : @Zalatoy_Admin_Uz
  */
-$API_KEY = 'token';
+$API_KEY = 'token';1213169236:AAF4vNYdVLz-gnacKtgje_IRvx6SQxoqxV0
 ##------------------------------##
 define('API_KEY',$API_KEY);
 function bot($method,$datas=[]){
